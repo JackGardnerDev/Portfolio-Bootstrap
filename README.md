@@ -1,2 +1,2 @@
 # Portfolio-Bootstrap
-Personal Portfolio Website made using Bootstrap (Not cctual portfolio just fun project)
+Personal Portfolio Website made using Bootstrap (Not actual portfolio just fun project)
